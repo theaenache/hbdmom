@@ -1,4 +1,4 @@
-# mom's bday bouquet <#
+# mom's bday bouquet <3
 
 an interactive birthday gift featuring a bouquet of flowers, each containing a special coupon for activities to enjoy together :)
 
