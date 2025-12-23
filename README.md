@@ -18,46 +18,46 @@ an interactive birthday gift featuring a bouquet of flowers, each containing a s
 
 ### installation
 
-1. Clone this repository:
+1. clone this repo:
    ```bash
    git clone <your-repo-url>
    cd birthday-bouquet-app
    ```
 
-2. Install dependencies:
+2. install dependencies:
    ```bash
    npm install
    ```
 
-3. Start the development server:
+3. start the development server:
    ```bash
    npm start
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`
+4. open your browser and navigate to `http://localhost:3000`
 
-The app will automatically reload if you make changes to the code.
+the app will automatically reload if you make changes to the code.
 
 ## deployment
 
 ### build for prod time
 
-To create an optimized production build:
+to create an optimized production build:
 
 ```bash
 npm run build
 ```
 
-This creates a `build` folder with optimized files ready for deployment.
+this creates a `build` folder with optimized files ready for deployment.
 
 ### deployment to GitHub pages
 
-1. Install gh-pages:
+1. install gh-pages:
    ```bash
    npm install --save-dev gh-pages
    ```
 
-2. Add these scripts to your `package.json`:
+2. add these scripts to your `package.json`:
    ```json
    "homepage": "https://yourusername.github.io/birthday-bouquet",
    "scripts": {
@@ -73,13 +73,13 @@ This creates a `build` folder with optimized files ready for deployment.
 
 ### alternative deploy options
 
-- **Netlify**: Drag and drop the `build` folder to [Netlify](https://www.netlify.com/)
-- **Vercel**: Connect your GitHub repo to [Vercel](https://vercel.com/)
-- **GitHub Pages**: Follow the instructions above
+- **Netlify**: drag and drop the `build` folder to [Netlify](https://www.netlify.com/)
+- **Vercel**: connet GitHub repo to [Vercel](https://vercel.com/)
+- **GitHub Pages**: follow the instructions above
 
 ## customization
 
-To customize the coupons or colors, edit the `flowers` array in `src/BirthdayBouquet.jsx`:
+to customize the coupons or colors, edit the `flowers` array in `src/BirthdayBouquet.jsx`:
 
 ```javascript
 const flowers = [
@@ -90,13 +90,13 @@ const flowers = [
 
 ## for this proj i used:
 
-- React 18
+- react 18
 - CSS-in-JS for styling
-- Google Fonts (Playfair Display)
+- google fonts (Playfair Display (for now, its kinda chopped))
 
 ## license
 
-this is my personal project created as a birthday gift for my mom. Feel free to use and modify for your own personal gifts!
+this is my personal project created as a birthday gift for my mom. feel free to use and modify for your own personal gifts!
 
 ---
 
