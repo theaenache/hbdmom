@@ -77,7 +77,7 @@ This creates a `build` folder with optimized files ready for deployment.
 - **Vercel**: Connect your GitHub repo to [Vercel](https://vercel.com/)
 - **GitHub Pages**: Follow the instructions above
 
-## Customization
+## customization
 
 To customize the coupons or colors, edit the `flowers` array in `src/BirthdayBouquet.jsx`:
 
@@ -94,10 +94,10 @@ const flowers = [
 - CSS-in-JS for styling
 - Google Fonts (Playfair Display)
 
-## License
+## license
 
-This is a personal project created as a birthday gift. Feel free to use and modify for your own personal gifts!
+this is my personal project created as a birthday gift for my mom. Feel free to use and modify for your own personal gifts!
 
 ---
 
-Made with ❤️ for Mom's Birthday 🎉
+made with ❤️ for moms's bday !!
