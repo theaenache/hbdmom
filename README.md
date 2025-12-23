@@ -9,14 +9,14 @@ an interactive birthday gift featuring a bouquet of flowers, each containing a s
 - a special activity to do together is revealed when the flower is clicked on
 - animations and hopefully smooth interactions
 
-## Setup Instructions
+## setup instructions
 
-### Prerequisites
+### prereqs
 
 - Node.js (version 14 or higher)
 - npm (comes with Node.js)
 
-### Installation
+### installation
 
 1. Clone this repository:
    ```bash
@@ -38,9 +38,9 @@ an interactive birthday gift featuring a bouquet of flowers, each containing a s
 
 The app will automatically reload if you make changes to the code.
 
-## Deployment
+## deployment
 
-### Build for Production
+### build for prod time
 
 To create an optimized production build:
 
@@ -50,7 +50,7 @@ npm run build
 
 This creates a `build` folder with optimized files ready for deployment.
 
-### Deploy to GitHub Pages
+### deployment to GitHub pages
 
 1. Install gh-pages:
    ```bash
@@ -71,7 +71,7 @@ This creates a `build` folder with optimized files ready for deployment.
    npm run deploy
    ```
 
-### Other Deployment Options
+### alternative deploy options
 
 - **Netlify**: Drag and drop the `build` folder to [Netlify](https://www.netlify.com/)
 - **Vercel**: Connect your GitHub repo to [Vercel](https://vercel.com/)
@@ -88,7 +88,7 @@ const flowers = [
 ];
 ```
 
-## Technologies Used
+## for this proj i used:
 
 - React 18
 - CSS-in-JS for styling
