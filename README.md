@@ -1,25 +1,13 @@
-# 🌸 Birthday Bouquet - Interactive Gift
+# mom's bday bouquet <#
 
-A beautiful interactive birthday gift featuring a bouquet of flowers, each containing a special coupon for activities to enjoy together!
+an interactive birthday gift featuring a bouquet of flowers, each containing a special coupon for activities to enjoy together :)
 
-## Features
+## features:
 
-- 🎂 Adorable animated cake character
-- 🌺 8 different types of flowers (roses, tulips, sunflowers, daisies)
-- 🎁 Each flower reveals a special coupon when clicked
-- ✨ Beautiful animations and smooth interactions
-- 💝 Personalized coupons for quality time together
-
-## Coupons Included
-
-1. Free wine tasting in Cloverdale
-2. I cook a meal of your choice
-3. I do your makeup for an occasion
-4. Coffee date on me
-5. Walk of your choice
-6. At home spa session
-7. Picnic in the park (I handle all the prep!)
-8. Arts and crafts afternoon
+- animated cake character
+- 8 different types of flowers (roses, tulips, sunflowers, daisies)
+- a special activity to do together is revealed when the flower is clicked on
+- animations and hopefully smooth interactions
 
 ## Setup Instructions
 
